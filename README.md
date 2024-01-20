@@ -18,7 +18,7 @@ loader animations, and an optional search bar using HTML, CSS, and JavaScript wi
 2. Navigate to the project directory:
 3. Open the index.html file in your preferred web browser
 
-Instructions
+#Instructions:
 The main page displays a list of public repositories for a specific GitHub user.
 Pagination is implemented using server-side logic.
 By default, 10 repositories are displayed per page.
