@@ -1,8 +1,8 @@
-# Fyle Web Development Internship Challenge
+# Web Development Challenge
 
 ## Overview
 
-This project is a solution to the Fyle Web Development Internship Challenge. 
+This project is a solution to the Web Development Challenge. 
 It implements a GitHub repositories listing page with server-side pagination, 
 loader animations, and an optional search bar using HTML, CSS, and JavaScript with Bootstrap and jQuery.
 
